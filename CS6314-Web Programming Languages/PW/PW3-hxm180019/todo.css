@@ -1,0 +1,55 @@
+span{
+  opacity: 0;
+  display: inline-block;
+  transition: 0.5s linear;
+  
+
+}
+li:hover span{
+  opacity: 1;
+  width: 20%;
+  height: 20%;
+}
+
+
+ul{
+    list-style-type: none;
+    }
+
+.done{
+	text-decoration: line-through;
+}
+li, h3{
+    background: #F0F8FF;
+    height: 40px; 
+    line-height: 40px; 
+    color: #666;
+    width:300px;
+}
+
+
+li:nth-child(2n){
+
+    background: #FAEBD7;
+
+}   
+
+body{
+    background-color: #FDF2E9;
+    text-align: center;
+
+}
+#new{
+    display: none;
+}
+
+.container{
+    background-color: #EDBB99;
+    width: 400px;
+
+
+}
+.fa-plus{
+    float:right;
+
+}

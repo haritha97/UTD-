@@ -1,0 +1,115 @@
+.navbar{
+	background-color:#7FB3D5;
+	color: #F2F3F4;
+	font-weight: bolder;
+	font-family: "Palatino Linotype";
+	font-size: 30px;
+}
+.nav-style{
+	color: #F2F3F4;
+	font-style: bolder;
+}
+.side-left{
+	background-color: #D6EAF8;
+	color: #2980B9;
+	padding-top: 50px;
+}
+.side-left li,a{
+	margin: 10px;
+	color: #2980B9;
+	font-family: "Trebuchet MS";
+}
+.side-right{
+	background-color: #D6EAF8;
+	font-family: "Trebuchet MS";
+}
+.main{
+	background-color: #EAEDED ;
+	font-family: "Lucida Sans Unicode";
+	color: #1A5276;
+}
+
+.title{
+	text-align: right;
+	margin: 0px;
+	padding: 0px;
+	font-weight: bold;
+	color: #1A5276;
+	font-style: italic;
+
+}
+
+.title1{
+	text-align: right;
+	margin: 0px;
+	padding: 0px;
+	font-weight: bold;
+	color: #1A5276;
+	font-style: italic;
+	font-size: 25px;
+
+}
+
+.topic,.topic1{
+	text-align: left;
+	margin-top: 10px;
+	font-weight: bolder;
+	font-size: 30px;
+	color: #0E0A20;
+	padding-top: 20px;
+	padding-bottom: 0px;
+}
+.topic{
+	padding-top: 10px;
+}
+.s1{
+	margin-right: 250px;
+	float: right;
+}
+.gpa{
+	margin-right: 250px;
+	float: right;
+	margin-top: 0px;	
+	font-style: italic;
+}
+.hobbies,.university,.project_name{
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+.course{
+	margin-top: 0px;
+	font-style: italic;
+	font-weight: bold;
+}
+.project_desc{
+	margin-top: 0px;
+	font-style: italic;
+	margin-bottom: 0px;
+}
+
+img{
+	width: 25%;
+	margin-top: 25px;
+	margin-bottom: 30px;
+	float: left;
+	border: 3px solid #17202A;
+}
+.contact_details{
+	background-color:#7FB3D5;
+	color: #F2F3F4;
+	padding: 25px;
+	text-align: center;
+	font-family: "Trebuchet MS";
+}
+
+.phone{
+	padding-right: 50px;
+	margin-right: 50px;
+	font-size: 20px;
+}
+.email{
+	padding-left: 50px;
+	margin-left: 50px;	
+	font-size: 20px;
+}
